@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.nap-camp.com)",
+      "Bash(curl -s http://localhost:3000/api/mcp)",
+      "Bash(git add *)",
+      "Bash(git commit -m '*)",
+      "Bash(git push *)",
+      "Read(/Users/arisan/**)"
+    ],
+    "additionalDirectories": [
+      "/Users/arisan/camp-nagare"
+    ]
+  }
+}
