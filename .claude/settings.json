@@ -7,7 +7,9 @@
       "Bash(git add *)",
       "Bash(git commit -m '*)",
       "Bash(git push *)",
-      "Read(/Users/arisan/**)"
+      "Read(/Users/arisan/**)",
+      "Skill(claude-api)",
+      "Skill(claude-api:*)"
     ],
     "additionalDirectories": [
       "/Users/arisan/camp-nagare"
